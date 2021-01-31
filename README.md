@@ -1,5 +1,5 @@
 # MineClearance3D
-Powered by FaithBook-_-
+-
 
 仅供学习娱乐，禁止商业化
 
